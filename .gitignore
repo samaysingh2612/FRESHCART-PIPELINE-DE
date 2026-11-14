@@ -1,0 +1,9 @@
+.env
+*.pkl
+*.csv
+mage.log
+__pycache__/
+.pytest_cache/
+.mage_data/
+mage_env/
+.venv/
